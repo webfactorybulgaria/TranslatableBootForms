@@ -1,5 +1,5 @@
 {
-    "name": "typicms/translatablebootforms",
+    "name": "webfactorybulgaria/translatablebootforms",
     "description": "Form model binding for translated fields, use BootForms and Translatable.",
     "keywords": ["Laravel", "FormBuilder", "BootForm", "Translatable", "TypiCMS"],
     "license": "MIT",
